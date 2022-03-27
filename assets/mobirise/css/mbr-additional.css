@@ -2311,3 +2311,11 @@ body {
   box-shadow: none;
   background-color: transparent;
 }
+.cid-sxbaalA7lJ .nav-header__custom {
+  position: fixed !important;
+  width: 100%;
+  top: 0;
+  transition: all .4s;
+  z-index: 999;
+  color: #fff;
+}

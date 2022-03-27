@@ -1,3 +1,16 @@
 .grecaptcha-badge{
-	visibility: collapse !important;  
+	visibility: collapse !important;
+}
+
+.image-logo__header {
+	width: 115px;
+	border-radius: 10px;
+	padding-right: 0px !important;
+}
+
+@media (max-width: 767px) {
+	.image-logo__header {
+		width: 80px;
+		border-radius: 10px;
+	}
 }
